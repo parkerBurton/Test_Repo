@@ -1,2 +1,3 @@
 ﻿  Source.cpp
+c:\users\parker\documents\github\test_repo\blahs\blahs\source.cpp(9): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
   blahs.vcxproj -> C:\Users\Parker\Documents\GitHub\Test_Repo\blahs\x64\Debug\blahs.exe
